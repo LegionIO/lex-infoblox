@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Infoblox WAPI for DNS and network man
 
 **GitHub**: https://github.com/LegionIO/lex-infoblox
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
